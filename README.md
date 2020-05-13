@@ -48,4 +48,4 @@ Event Subscriptions must be enabled for your  with the following configurations:
 - "Participant joined meeting before host" subscription enabled under the Meeting event.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://opensource.org/licenses/MIT)
