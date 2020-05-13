@@ -47,5 +47,8 @@ Event Subscriptions must be enabled for your  with the following configurations:
 - A valid Event Notification Endpoint URL.
 - "Participant joined meeting before host" subscription enabled under the Meeting event.
 
+## Solution
+- AWS Components: AWS API Gateway, SNS Notification & AWS Lambda
+
 ## License
 [MIT](https://opensource.org/licenses/MIT)
